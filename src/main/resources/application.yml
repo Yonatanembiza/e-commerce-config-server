@@ -10,3 +10,7 @@ spring:
           clone-on-start: true
 server:
   port: 3000
+
+logging:
+  level:
+    org.springframework.cloud.config: DEBUG
