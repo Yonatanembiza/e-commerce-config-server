@@ -8,3 +8,5 @@ spring:
         git:
           uri: https://github.com/Yonatanembiza/e-commerce-configurations.git
           clone-on-start: true
+server:
+  port: 3000
